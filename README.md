@@ -1,5 +1,5 @@
 # *_Hey , I am ```Varun Vikash```_* <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-##[![Telegram](https://img.shields.io/badge/Telegram-Ghost73-blue?style=for-the-badge&logo=Telegram)](https://https://telegram.dog/Ghost73_Gaming)
+## [![Telegram](https://img.shields.io/badge/Telegram-Ghost73-blue?style=for-the-badge&logo=Telegram)](https://https://telegram.dog/Ghost73_Gaming)
 
 
 |  <a href="https://varunvikash.carrd.co"><img src="https://telegra.ph/file/157ceb573fbff1a56c600.jpg" width="150px" height="150px" /></a> |
