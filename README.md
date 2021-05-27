@@ -8,3 +8,5 @@
 
 ## [![Telegram](https://img.shields.io/badge/Telegram-Ghost73-blue?style=for-the-badge&logo=Telegram)](https://https://telegram.dog/Ghost73_Gaming)
 
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0nj9ujjxp8c35clrkc2s1jcc5&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=0nj9ujjxp8c35clrkc2s1jcc5&redirect=true)
