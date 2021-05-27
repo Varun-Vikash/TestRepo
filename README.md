@@ -8,6 +8,3 @@
 
 ## [![Telegram](https://img.shields.io/badge/Telegram-Ghost73-blue?style=for-the-badge&logo=Telegram)](https://https://telegram.dog/Ghost73_Gaming)
 
-
-
- [![spotify](http://nowplayi.ng/playing.php#)](https://https://telegram.dog/Ghost73_Gaming)
