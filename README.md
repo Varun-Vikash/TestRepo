@@ -8,12 +8,12 @@
 
 ## [![Telegram](https://img.shields.io/badge/TELEGRAM-black?style=for-the-badge&logo=Telegram)](https://telegram.dog/Ghost73_Gaming) [![INSTAGRAM](https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=Instagram)](https://instagram.com/the.vr7) [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=Twitter)](https://twitter.com/varunvikash_)
 
-
-_Now playing on Spotify_
+*_Now playing on Spotify_*
 
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=0nj9ujjxp8c35clrkc2s1jcc5&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=0nj9ujjxp8c35clrkc2s1jcc5&redirect=true)
 
 ## 
 
+### Stargazers
 
-[![Stargazers repo roster for @Varun-Vikash/Varun-Vikash](https://reporoster.com/stars/Varun-Vikash/Varun-Vikash)](https://github.com/Varun-Vikash/Varun-Vikash)
+<img height="95" style="border-radius:50%" src="https://reporoster.com/stars/Varun-Vikash/Varun-Vikash">
