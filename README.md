@@ -22,4 +22,4 @@
 
 ### *Github Status*
 
-<img src="https://github-readme-stats.vercel.app/api?username=Varun-Vikash&count_private=true&show_icons=true&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api?username=Varun-Vikash&count_private=true&show_icons=true&theme=dark"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varun-vikash&theme=dark">
