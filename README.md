@@ -8,11 +8,13 @@
 
 ## [![Telegram](https://img.shields.io/badge/TELEGRAM-black?style=for-the-badge&logo=Telegram)](https://telegram.dog/Ghost73_Gaming) [![INSTAGRAM](https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=Instagram)](https://instagram.com/the.vr7) [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=Twitter)](https://twitter.com/varunvikash_)
 
-### *Now playing on* <img height=30 src='https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_CMYK_Black.png'>
+### *Now playing on Spotify*
 
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=0nj9ujjxp8c35clrkc2s1jcc5&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=0nj9ujjxp8c35clrkc2s1jcc5&redirect=true)
 
 ##
 
+### *Currently working on*
  
+
 <img src= "https://github-readme-stats.vercel.app/api/pin?username=varun-vikash&repo=Stark-userbot&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515">
