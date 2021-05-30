@@ -14,3 +14,6 @@ _Now playing on Spotify_
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=0nj9ujjxp8c35clrkc2s1jcc5&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=0nj9ujjxp8c35clrkc2s1jcc5&redirect=true)
 
 ## 
+
+
+[![Stargazers repo roster for @Varun-Vikash/Varun-Vikash](https://reporoster.com/stars/Varun-Vikash/Varun-Vikash)](https://github.com/Varun-Vikash/Varun-Vikash)
