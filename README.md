@@ -17,12 +17,15 @@
 
 ##
 
+### *Github Status*
+
+<img src="https://github-readme-stats.vercel.app/api?username=Varun-Vikash&count_private=true&show_icons=true&theme=dark"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varun-vikash&theme=dark">
+
+##
+
 ### *Currently working on*
  
 [![Stark-UB](https://github-readme-stats.vercel.app/api/pin?username=varun-vikash&repo=Stark-userbot&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Varun-Vikash/Stark-Userbot)
 
 ##
 
-### *Github Status*
-
-<img src="https://github-readme-stats.vercel.app/api?username=Varun-Vikash&count_private=true&show_icons=true&theme=dark"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varun-vikash&theme=dark">
