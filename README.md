@@ -29,7 +29,7 @@
 
 ##
 
+```python3
+COPYRIGHTS Varun Vikash
 
-
-### (C) COPYRIGHTS Varun Vikash
-
+```
