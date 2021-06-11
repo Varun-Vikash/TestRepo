@@ -30,6 +30,6 @@
 ##
 
 ```python3
-COPYRIGHTS Varun Vikash
+COPYRIGHTS:Varun Vikash
 
 ```
