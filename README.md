@@ -29,7 +29,7 @@
 
 ##
 
-```python3
+```javascript
 COPYRIGHTS:Varun Vikash
 
 ```
